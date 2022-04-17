@@ -46,5 +46,5 @@ void cleanup_module(void)
 }
 
 MODULE_LICENSE("Dual MIT/GPL");
-MODULE_AUTHOR("raghu@techveda.org");
+MODULE_AUTHOR("Samir Mulani");
 MODULE_DESCRIPTION("First kernel module");
