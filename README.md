@@ -7,7 +7,7 @@ There are several guides for kernel developers and users. The guides can be usef
 
 Above Repositery contains below topics:
   1. Steps to download and build Linux kernel source.
-2 kbuild
+2. kbuild
 3. mm
 4. sync
 5. lkms
