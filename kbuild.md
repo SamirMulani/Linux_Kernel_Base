@@ -114,6 +114,7 @@ $ make install
    ​			Edit local Kbuild Makefile to have compile target for new source
 
 
-
+````Cross compilation
+1. make ARCH=arm menuconfig
 
 
